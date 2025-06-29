@@ -1,7 +1,3 @@
-# 💫 About Me:
-"I am a final year cybersecurity student with foundational knowledge in network security, ethical hacking, and risk management. I am seeking an internship or entry-level position to apply my skills and further develop my expertise in the cybersecurity field."
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyen.minh.phu.996722/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ph%C3%BA-nguy%E1%BB%85n-minh-0172b6336/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phu6771@gmail.com) 
 
